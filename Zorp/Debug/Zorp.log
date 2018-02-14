@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\s171841\desktop\zorp\source.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\s171841\desktop\zorp\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zorp.vcxproj -> C:\Users\s171841\Desktop\Zorp\Debug\Zorp.exe
